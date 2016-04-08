@@ -1,0 +1,18 @@
+{
+  "name": "node_beginners",
+  "version": "1.0.0",
+  "description": "I read the book, I followed along with the exercises, and I debugged.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "formidable": "^1.0.17",
+    "fs": "0.0.2",
+    "http": "0.0.0",
+    "url": "^0.11.0"
+  }
+}
